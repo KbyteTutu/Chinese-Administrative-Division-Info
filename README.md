@@ -1,4 +1,4 @@
-# Chinese-Administrative-Division-Info 中国行政区划
+# Chinese-Administrative-Division-Info 中国行政区划资料
 xml file of chinese administrative divisions. Based on the official information. C# project.
 
 

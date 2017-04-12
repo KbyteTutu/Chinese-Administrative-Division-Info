@@ -1,5 +1,5 @@
-# Chinese-Administrative-Division-Info
-A dll file of chinese administrative divisions. Based on the official information. C# project.
+# Chinese-Administrative-Division-Info 中国行政区划
+xml file of chinese administrative divisions. Based on the official information. C# project.
 
 
 之前因为工作需要，去国家统计局网站爬了全国行政区划的统计数据。我整理了快一个月，焦头烂额的……就用一次感觉好亏呀，就发过来吧。
